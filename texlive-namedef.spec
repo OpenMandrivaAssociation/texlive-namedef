@@ -1,6 +1,6 @@
 Name:		texlive-namedef
 Version:	55881
-Release:	1
+Release:	2
 Summary:	TeX definitions with named parameters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/namedef
