@@ -3,7 +3,7 @@ Version:	55881
 Release:	2
 Summary:	TeX definitions with named parameters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/namedef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/namedef
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/namedef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/namedef.doc.r%{version}.tar.xz
